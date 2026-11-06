@@ -74,7 +74,7 @@ const MEMBER = {
   name: 'Belay Tafese Demissie',
   initials: 'BG',
   avatar: '/profile.png',
-  age: 45,
+  age: 31,
   region: 'Unidentified',
   country: 'Ethiopia',
   occupation: 'Construction',
