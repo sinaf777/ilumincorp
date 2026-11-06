@@ -75,7 +75,7 @@ const MEMBER = {
   initials: 'BG',
   avatar: '/profile.png',
   age: 45,
-  region: 'Unidentified'
+  region: 'Unidentified',
   country: 'Ethiopia',
   occupation: 'Construction',
   registeredOn: '6 November 2026',
